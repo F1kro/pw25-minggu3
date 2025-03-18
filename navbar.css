@@ -1,0 +1,5 @@
+.navbar { background: #333; padding: 10px; text-align: center; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5); }
+.navbar a { color: white; padding: 10px 20px; text-decoration: none; display: inline-block; }
+.navbar a:hover { background: #555; }
+.section { display: none; padding: 20px; rounded: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); }
+.active { display: block; background: #ff344 }
